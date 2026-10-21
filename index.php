@@ -7,6 +7,11 @@
     <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
+    <!-- Ajout de la bannière de test Pipeline -->
+    <div class="pipeline-banner">
+        <span class="status-dot"></span> Pipeline Active : Thème Ultralocal (v1.0.1) - Déploiement Git OK 🚀
+    </div>
+    
     <header>
         <h1><?php bloginfo('name'); ?> - Thème Ultralocal</h1>
         <p><?php bloginfo('description'); ?></p>
