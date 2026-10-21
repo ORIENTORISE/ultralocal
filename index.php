@@ -9,7 +9,7 @@
 <body <?php body_class(); ?>>
     <!-- Ajout de la bannière de test Pipeline -->
     <div class="pipeline-banner">
-        <span class="status-dot"></span> Pipeline Active : Thème Ultralocal (v1.0.1) - Déploiement Git OK 🚀
+        <span class="status-dot"></span> Pipeline Active : Thème Ultralocal (v1.0.1) - Déploiement Git OK 2026 🚀
     </div>
     
     <header>
